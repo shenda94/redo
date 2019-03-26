@@ -6,5 +6,5 @@ REDO (Rumah Edukasi Online) adalah media online untuk memudahkan anda dalam memb
 http://redo-dev.000webhostapp.com/
 
 ## poster
-
+![Example Image](https://github.com/shenda94/redo/blob/master/Space%20-%20Science%20Fair%20Project.jpeg)
 
